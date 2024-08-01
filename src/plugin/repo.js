@@ -10,7 +10,7 @@ const handleRepoCommand = async (m, Matrix) => {
 
     const { full_name, name, forks_count, stargazers_count, created_at, updated_at, owner } = repoData;
 
-    const messageText = `╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮
+    const messageText = `╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮
    _Evil md world best fast whatsapp bot_
     \n🗼 *Name:* ${name}
     \n⭐ *Stars:* ${stargazers_count}
@@ -18,7 +18,7 @@ const handleRepoCommand = async (m, Matrix) => {
     \n📅 *Created At:* ${new Date(created_at).toLocaleDateString()}
     \n🕐 *Last Updated:* ${new Date(updated_at).toLocaleDateString()}
     \n👨‍💻 *Owner:* ${owner.login}
-╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯`;
+╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯`;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
       viewOnceMessage: {
@@ -54,7 +54,7 @@ const handleRepoCommand = async (m, Matrix) => {
                   name: "cta_url",
                   buttonParamsJson: JSON.stringify({
                     display_text: "Evil Md Repo",
-                    url: `https://github.com/Itxxevil/EVIL-M-V2/fork`
+                    url: `https://github.com/Itxxevil/EVIL-MD-V2/fork`
                   })
                 },
                 {
