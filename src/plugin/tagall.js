@@ -21,7 +21,7 @@ const tagAll = async (m, gss) => {
     if (!botAdmin) return m.reply("*ʙᴏᴛ ᴍᴜsᴛ ʙᴇ ᴀɴ ᴀᴅᴍɪɴ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ⛔*");
     if (!senderAdmin) return m.reply("*ʏᴏᴜ ᴍᴜsᴛ ʙᴇ ᴀɴ ᴀᴅᴍɪɴ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ⛔*");
     // Extract the message to be sent
-    let message = `*Attention Everyone*\n\n*_ᴇᴠɪʟ-ᴍᴅ _* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
+    let message = `*Attention Everyone*\n\n*Assᴀʟᴀᴍ ᴏ ᴀʟᴀɪᴋᴜᴍ* ${m.body.slice(prefix.length + cmd.length).trim() || 'ᴇᴠɪʟ-ᴍᴅ'}\n\n`;
         
 
 
