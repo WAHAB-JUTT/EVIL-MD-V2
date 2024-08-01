@@ -145,7 +145,7 @@ const facebookCommand = async (m, Matrix) => {
             content = { 
               video: finalMediaBuffer, 
               mimetype: 'video/mp4', 
-              caption: '> © Powered by Ethix-MD',
+              caption: '> *_© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴠɪʟ ᴍᴅ²⁰²⁴_*',
             };
             await Matrix.sendMessage(m.from, content, { quoted: m });
           } else {
