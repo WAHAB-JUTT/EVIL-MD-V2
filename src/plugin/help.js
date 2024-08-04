@@ -331,7 +331,7 @@ let mode = ethix.public ? 'public' : 'private';
         let fgg = {
             key: {
                 fromMe: false,
-                participant: `0029Va8TzeF0AgW8dVET3U1w@s.whatsapp.net`,
+                participant: `0@s.whatsapp.net`,
                 remoteJid: "status@broadcast"
             },
             message: {
