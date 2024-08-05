@@ -191,8 +191,8 @@ let mode = ethix.public ? 'public' : 'private';
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -207,7 +207,7 @@ let mode = ethix.public ? 'public' : 'private';
   }
       if (selectedId == "View All Menu") {
         const mode = process.env.MODE;
-        const str = `hey ${m.pushName} ${pushwish}
+        const str = `hi ${m.pushName} ${pushwish}
 ╭─═════════════⊷❍
 ┋❁┋. ʙᴏᴛ ɴᴀᴍᴇ: *ᴇᴠɪʟ-ᴍᴅ*
 ┋❁┋. ᴠᴇʀꜱɪᴏɴ: 2.0.3
@@ -336,7 +336,7 @@ let mode = ethix.public ? 'public' : 'private';
             },
             message: {
                 contactMessage: {
-                    displayName: `EVIL-MD`,
+                    displayName: `𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2`,
                     vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:'Ethix-MD'\nitem1.TEL;waid=${
                         m.sender.split("@")[0]
                     }:${
@@ -353,8 +353,8 @@ let mode = ethix.public ? 'public' : 'private';
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -394,8 +394,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -465,8 +465,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -504,8 +504,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -542,8 +542,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -572,8 +572,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -604,8 +604,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -638,8 +638,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
@@ -673,8 +673,8 @@ await Matrix.sendMessage(m.from, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "EVIL-MD",
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
               }
