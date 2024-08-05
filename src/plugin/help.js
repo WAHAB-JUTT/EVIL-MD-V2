@@ -37,9 +37,9 @@ const seconds = Math.floor(uptime % 60); // Calculate seconds
 const uptimeMessage = `*I am alive now since ${day}d ${hours}h ${minutes}m ${seconds}s*`;
 const runMessage = `*☀️ ${day} Day*\n*🕐 ${hours} Hour*\n*⏰ ${minutes} Minutes*\n*⏱️ ${seconds} Seconds*\n`;
 
-const xtime = moment.tz("Asia/Colombo").format("HH:mm:ss");
-const xdate = moment.tz("Asia/Colombo").format("DD/MM/YYYY");
-const time2 = moment().tz("Asia/Colombo").format("HH:mm:ss");
+const xtime = moment.tz("Asia/Karachi").format("HH:mm:ss");
+const xdate = moment.tz("Asia/Karachi").format("DD/MM/YYYY");
+const time2 = moment().tz("Asia/Karachi").format("HH:mm:ss");
 let pushwish = "";
 
 if (time2 < "05:00:00") {
@@ -97,12 +97,12 @@ let mode = ethix.public ? 'public' : 'private';
 ┋❁┋. ɴᴜᴍʙᴇʀ: 923319709781
 ┋❁┋. ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 ┋❁┋. ᴍᴏᴅᴇ: *${mode}*
-┋❁┋. ᴘʀᴇғɪx: *[Multi-Prefix]*
+┋❁┋. ᴘʀᴇғɪx: *[ . ]*
 ┋❁╰──────────────
 ╰════════════════⍟
-╭──────────────━┈⊷
-│    *_ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴅᴀʀᴋ ᴇᴠɪʟ_*
-╰──────────────━┈⊷`
+╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮
+│   *_ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴅᴀʀᴋ ᴇᴠɪʟ_*
+╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯`
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
               text: "╰╼ᘳᗒCᴏᴍᴍᴀɴᴅs Pᴀɴᴇʟᗕᘰ╼╯"
