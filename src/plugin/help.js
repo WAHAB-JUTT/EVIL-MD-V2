@@ -99,10 +99,13 @@ let mode = ethix.public ? 'public' : 'private';
 ┋❁┋. ᴍᴏᴅᴇ: *${mode}*
 ┋❁┋. ᴘʀᴇғɪx: *[Multi-Prefix]*
 ┋❁╰──────────────
-╰════════════════⍟ `
+╰════════════════⍟
+╭──────────────━┈⊷
+│    *_ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴅᴀʀᴋ ᴇᴠɪʟ_*
+╰──────────────━┈⊷`
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "╰╼ᘳᗒ *_ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴅᴀʀᴋ ᴇᴠɪʟ_* ᗕᘰ╼╯"
+              text: "╰╼ᘳᗒCᴏᴍᴍᴀɴᴅs Pᴀɴᴇʟᗕᘰ╼╯"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image : fs.readFileSync('./src/EVIL.jpg')}, { upload: Matrix.waUploadToServer})), 
