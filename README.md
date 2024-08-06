@@ -23,7 +23,7 @@
 
 
  <a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
-    <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=session&logoColor=orange" />
+    <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=orange&logoColor=orange" />
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
