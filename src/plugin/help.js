@@ -105,7 +105,7 @@ let mode = ethix.public ? 'public' : 'private';
 ╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯`
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "╰╼ᘳᗒCᴏᴍᴍᴀɴᴅs Pᴀɴᴇʟᗕᘰ╼╯"
+              text: "•─•◈Cᴏᴍᴍᴀɴᴅs Pᴀɴᴇʟ◈•─•"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image : fs.readFileSync('./src/EVIL.jpg')}, { upload: Matrix.waUploadToServer})), 
