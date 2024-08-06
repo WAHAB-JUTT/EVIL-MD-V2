@@ -16,11 +16,9 @@
 
 *_1.FORK REPO_*
 
-
  <a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 *_2.GET SESSION ID_*
-
 
  <a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
     <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=orange&logoColor=orange" />
@@ -30,9 +28,19 @@
 
 *_3.DEPLOY ON HEROKU_*
 
-
  <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2" target="_blank">
     <img alt="deploy" src="https://img.shields.io/badge/ heroku -25D366?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+## ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs
+
+
+<a href="https://whatsapp.com/channel/0029Va8TzeF0AgW8dVET3U1w" target="_blank">
+    <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
