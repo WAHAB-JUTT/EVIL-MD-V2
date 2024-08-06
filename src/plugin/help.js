@@ -356,7 +356,7 @@ let mode = ethix.public ? 'public' : 'private';
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w',
+                  newsletterJid: '0029Va8TzeF0AgW8dVET3U1w@newsletter',
                   newsletterName: "𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2",
                   serverMessageId: 143
                 }
