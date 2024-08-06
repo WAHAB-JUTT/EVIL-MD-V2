@@ -14,7 +14,7 @@
 
 ***
 
-### DEPLOY SETUP
+## DEPLOY SETUP
 
 *_1.FORK REPO_*
 
@@ -38,7 +38,8 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-   *_contact me here_*
+## *_contact me here_*
+
 <a href="https://wa.me/923319709781" target="_blank">
     <img alt="owner" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
