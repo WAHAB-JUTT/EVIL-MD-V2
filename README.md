@@ -14,26 +14,31 @@
 
 ### DEPLOY SETUP
 
-*1.FORK REPO*
-    <br>
-<a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+*_1.FORK REPO_*
 
-*2.GET SESSION ID*
-<a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
+
+ <a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+*_2.GET SESSION ID_*
+
+
+ <a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
     <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=session&logoColor=orange" />
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-3.DEPLOY ON HEROKU
+*_3.DEPLOY ON HEROKU_*
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2" target="_blank">
+
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2" target="_blank">
     <img alt="deploy" src="https://img.shields.io/badge/ heroku -25D366?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
+   *_contact me here_*
+   
 <a href="https://wa.me/923319709781" target="_blank">
     <img alt="owner" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
