@@ -3,7 +3,9 @@
 <div align="center" class= "main"> 
   <img src="https://telegra.ph/file/1271d54767e6d0c21855a.jpg" width="400" height="400"/>
   <h1>𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2</h1>
-
+  <a href="https://github.com/Itxxevil"><img title="Creator" src="https://img.shields.io/badge/Creator-Dark Evil-red.svg?style=for-the-badge&logo=github"></a>
+<br>
+***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
 <div align="center">
@@ -20,20 +22,15 @@
 
 *_2.GET SESSION ID_*
 
- <a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
-    <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=orange&logoColor=orange" />
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <br>
+<a href='https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
 
 *_3.DEPLOY ON HEROKU_*
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2" target="_blank">
-    <img alt="deploy" src="https://img.shields.io/badge/ heroku -25D366?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ***
 
 ## ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs
@@ -55,8 +52,7 @@
 
 ***
 
-<a href="https://github.com/Itxxevil"><img title="Creator" src="https://img.shields.io/badge/Creator-Dark Evil-red.svg?style=for-the-badge&logo=github"></a>
-<br>
+
 
 
 
