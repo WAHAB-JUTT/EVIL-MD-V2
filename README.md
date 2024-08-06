@@ -27,14 +27,10 @@
 
 *_3.DEPLOY ON HEROKU_*
 
- <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 ***
 
 ## ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs
-
 
 <a href="https://whatsapp.com/channel/0029Va8TzeF0AgW8dVET3U1w" target="_blank">
     <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -43,7 +39,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
    *_contact me here_*
-   
 <a href="https://wa.me/923319709781" target="_blank">
     <img alt="owner" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
