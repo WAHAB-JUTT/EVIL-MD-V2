@@ -20,7 +20,6 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
 
 <a href="https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1" target="_blank">
     <img alt="session" src="https://img.shields.io/badge/ session_id-25D366?style=for-the-badge&logo=session&logoColor=orange" />
@@ -28,7 +27,6 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2" target="_blank">
     <img alt="deploy" src="https://img.shields.io/badge/ heroku -25D366?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -36,7 +34,6 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-***
 
 <a href="https://wa.me/923319709781" target="_blank">
     <img alt="owner" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
