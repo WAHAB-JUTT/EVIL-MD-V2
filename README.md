@@ -5,7 +5,7 @@
   <h1>𝐄𝐕𝐈𝐋-𝐌𝐃-𝐕2</h1>
   <a href="https://github.com/Itxxevil"><img title="Creator" src="https://img.shields.io/badge/Creator-Dark Evil-red.svg?style=for-the-badge&logo=github"></a>
 <br>
-***
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
 <div align="center">
