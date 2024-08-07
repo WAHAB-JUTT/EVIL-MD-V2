@@ -14,24 +14,23 @@
 
 ***
 
-## DEPLOY SETUP
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗦𝗘𝗧𝗨𝗣
 
-*_1.FORK REPO_*
+*_1.ғᴏʀᴋ ʀᴇᴘᴏ_*
 
  <a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-*_2.GET SESSION ID_*
+*_2.ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ_*
 
  <br>
-<a href='https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
+<a href='https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1/pair' target="_blank"><img alt='GET SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
 
-*_3.DEPLOY ON HEROKU_*
-
+*_3.ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ_*
 
    <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 ***
 
-## ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs
+## *_ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs_*
 
 <a href="https://whatsapp.com/channel/0029Va8TzeF0AgW8dVET3U1w" target="_blank">
     <img alt="whatsapp Channel" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -39,7 +38,7 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## *_contact me here_*
+## *_ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ_*
 
 <a href="https://wa.me/923319709781" target="_blank">
     <img alt="owner" src="https://img.shields.io/badge/ Whatsapp Number -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
