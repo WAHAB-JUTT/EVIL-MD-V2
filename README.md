@@ -20,7 +20,7 @@
 
  <a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
  
-*_2.ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ_*
+ *_2.ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ_*
 
  <br>
 <a href='https://replit.com/@RahmanUllah1/EVIL-MD-V2-SESSION-PAIRING-CODE?v=1/pair' target="_blank"><img alt='GET SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=orange'/></a>
