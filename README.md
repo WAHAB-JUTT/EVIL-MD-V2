@@ -19,7 +19,7 @@
 *_1.ғᴏʀᴋ ʀᴇᴘᴏ_*
 
  <a href='https://github.com/Itxxevil/EVIL-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
+ 
 *_2.ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ_*
 
  <br>
@@ -27,7 +27,7 @@
 
 *_3.ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ_*
 
-   <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxevil/EVIL-MD-V2"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 ***
 
 ## *_ғᴏʟʟᴏᴡ  ᴍʏ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs  ᴀɴᴅ ʜᴀᴄᴋɪɴɢ ᴛᴏᴏʟs_*
