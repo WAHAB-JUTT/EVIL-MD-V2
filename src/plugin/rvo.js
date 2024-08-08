@@ -22,7 +22,7 @@ const rvo = async (m, sock) => {
     const type = Object.keys(msg)[0];
     
     const originalCaption = msg[type].caption || '';
-    const newCaption = `${originalCaption}\n\n> © Powered By Ethix-MD`;
+    const newCaption = `${originalCaption}\n\n*_───•◈ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴠɪʟ ᴍᴅ²⁰²⁴◈•───_*`;
 
 
     // Download the media content
